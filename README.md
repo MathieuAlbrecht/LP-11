@@ -1,8 +1,12 @@
 # LP-11
 
 # Planung
-Ich möchte Java lernen.
+Ich möchte meine Kenntnisse in Python verbessern.
 
 ## 15.08.25
-- [ ] Tutorial für Java Nachprogrammieren
-- [ ] Java Desktop-App
+- [x] Projektidee (Towerdefense)
+- [x] Spielfeld Darstellen
+
+# 22.08.25
+- [ ] Gegner erstellen
+- [ ] Verteidigungstower erstellen
