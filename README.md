@@ -8,5 +8,5 @@ Ich möchte meine Kenntnisse in Python verbessern.
 - [x] Spielfeld Darstellen
 
 # 22.08.25
-- [ ] Gegner erstellen
+- [x] Gegner erstellen
 - [ ] Verteidigungstower erstellen
