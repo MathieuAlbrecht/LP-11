@@ -12,5 +12,9 @@ Ich möchte meine Kenntnisse in Python verbessern.
 - [ ] Verteidigungstower erstellen
 
 # 29.08.25
-- [ ] Bewerbung BSI
+- [x] Bewerbung BSI
 - [ ] Kaufmenü für Verteidigungstower
+
+# 05.09.25
+- [ ] ZKB Bewerbung
+- [ ] HP für Homebase
